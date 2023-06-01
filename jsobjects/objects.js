@@ -15,4 +15,7 @@ const hobbies = ['Sports', 'Cooking', 'Weightlifting'];
 //     console.log(hobby);
 // }
 
+
+//refresh on arrow functions
 console.log(hobbies.map(hobby => 'Hobby: ' + hobby));
+console.log(hobbies);
